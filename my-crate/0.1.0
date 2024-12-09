@@ -1,0 +1,11 @@
+{
+    "name": "my-crate",
+    "vers": "0.1.0",
+    "deps": [],
+    "cksum": "c82ed14d351fda360b4f5364384ae4499f0e18b53da851b4a1e2f0fc85df422d",
+    "features": {},
+    "yanked": false,
+    "links": null,
+    "dl": "https://artifactregistry.googleapis.com/download/v1/projects/on-premise-379302/locations/us-central1/repositories/my-crate-repo/files/my-crate%3A0.1.0%3Amy-crate-0.1.0.crate:download?alt=media"
+}
+
