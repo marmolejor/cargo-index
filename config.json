@@ -1,0 +1,5 @@
+{
+    "dl": "https://artifactregistry.googleapis.com/download/v1/projects/on-premise-379302/locations/us-central1/repositories/my-crate-repo/files/{crate}:{version}:{crate}-{version}.crate:download?alt=media",
+    "api": null
+}
+
