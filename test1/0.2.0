@@ -1,0 +1,10 @@
+{
+    "name": "test1",
+    "vers": "0.2.0",
+    "deps": [],
+    "cksum": "ef89747ef88f9fd27b541babd437d20ec55d17923bf7bf5f94b14737ca44dd71",
+    "features": {},
+    "yanked": false,
+    "links": null,
+    "dl": "https://artifactregistry.googleapis.com/download/v1/projects/on-premise-379302/locations/us-central1/repositories/my-crate-repo/files/test1%3A0.2.0%3Atest1-0.2.0.crate:download?alt=media"
+}
